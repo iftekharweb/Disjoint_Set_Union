@@ -37,6 +37,7 @@ ll solve()
             ll v = vin();
             Union(u,v);
         }
+        //  Connected Components
         ll cnt = 0;
         for(int i=1; i<=n; i++) {
             if(find(i) == i) cnt++;

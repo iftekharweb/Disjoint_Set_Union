@@ -2,6 +2,7 @@ Problems:
     https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-campers/
     https://www.hackerearth.com/problem/algorithm/city-and-flood-1/
     https://codeforces.com/problemset/problem/277/A
+    https://codeforces.com/problemset/problem/1559/D1
 
 1.  Time Complexity : O(a(n))
     -> Path Compression

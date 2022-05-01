@@ -4,6 +4,7 @@ Problems: (LUV YT)
     https://codeforces.com/problemset/problem/277/A
     https://codeforces.com/problemset/problem/1559/D1
     https://codeforces.com/problemset/problem/445/B
+    https://codeforces.com/problemset/problem/1167/C
 
 1.  Time Complexity : O(a(n))
     -> Path Compression
